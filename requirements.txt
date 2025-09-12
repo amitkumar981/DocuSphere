@@ -1,0 +1,17 @@
+ipykernel
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+pypdf
+structlog
+PyMuPDF 
+datetime
+langchain-google-genai
+langchain-groq
+pathlib
+pydantic
+fitz
+pandas
+fastapi
